@@ -1,7 +1,6 @@
 """
 Example 5 from Chapter 1: The Beginning - Variables and Your First Program
 Python Programming Fundamentals by Rajesh Aadi
-
 Practice Exercises
 """
 
